@@ -3,10 +3,10 @@ This project simulates an automotive ECU CAN communication system and fault moni
 Features
 
 - Engine ECU Simulation
-- CAN Message Transmission
-- CAN Message Reception
-- Fault Monitoring
-- Unit Testing
+- CAN Frame Creation
+- CAN Driver
+- CAN Bus Simulation
+- CAN Logger
 
 Technology Stack
 
